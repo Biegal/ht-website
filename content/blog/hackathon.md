@@ -7,9 +7,9 @@ author = "warna"
 draft = true
 +++
 
-We often become programmers because we would like to solve problems that we come across every day. It doesn't matter if we wanted to be able to create a website for ourselves, write a mobile app that's missing from the store or program a robot just for fun. We are driven by curiosity and making machines to help us is absolutely satisfying. How about we take all that passion of dozens of people and focus on solving real issues? That's the idea behind the hackathons - turning any idea into reality in a realtively short amount of time. If you wanted to build a complete product from scratch it would take ages to plan, develop and test. The notion here is to quickly **hack** something together and aim for the minimum working result during a mar**athon** of coding. Let's try, shall we?
+We often become programmers because we like solving problems that we come across every day. It doesn't matter if we want to  create a website for ourselves, write a mobile app that's missing from the store or program a robot just for fun. We are driven by curiosity and making machines to help us in the process is absolutely satisfying. How about we take all that passion, multiply by dozens of people and focus on solving real issues? That's the idea behind the hackathons - turning any idea into reality in a realtively short amount of time. If you wanted to build a complete product from scratch it would take ages to plan, develop and test. The notion here is to quickly **hack** something together and aim for the minimum working result during a mar**athon** of coding. Let's try that, shall we?
 
-I know what you are thinking. "I am not that good", "there will be better coders there", "I don't want to make myself a fool in front of people". These were exactly my thoughts before the hackathon too. I bought a ticket for one without putting a lot of attention what I am actually doing. The event was in a few months and I guess I assumed it will work out by itself. The closer the hackathon the more doubts I started to have. In the end I was going to participate alone so another thoughts in my head started to appear: "what if I don't find a team", "it's difficult to go to random people and ask if they need any members". But you know what? I decided to slay the demons, get out of my comfort zone and prove myself I was wrong.
+I know what you are thinking. "I am not that good", "there will be better coders there", "I don't want to make myself a fool in front of people". These were exactly my thoughts before my first hackathon too. I bought a ticket for one without putting a lot of attention to what I am actually doing. The event was in a few months and I guess I assumed it will work out by itself. The closer the hackathon the more doubts I started to have. In the end I was going to participate alone so another thoughts in my head started to appear: "what if I don't find a team", "it's difficult to go to random people and ask if they need any members". But you know what? I decided to slay the demons, get out of my comfort zone and prove myself I was wrong.
 
 It was unquestionably AWESOME to that extent that I decided to give you some courage and share some pieces of advice.
 
@@ -29,10 +29,10 @@ If you feel more comfortable with frontend, join the team that has backend cover
 Use tools and favourite IDEs you are already familiar with and have them set up on your machine. The time is precious and it would be a waste to spend it on configuration.
 
 ### Bring a notebook and a pen
-It's way faster to draw and write notes on a piece of paper rather than try to design on your computer. You can transfer them to electronic version later if time.
+It's way faster to draw and write notes on a piece of paper rather than try to design on your computer. You can transfer them to electronic version later if there is enough time.
 
 ### Minimum Viable Product
-That's crucial to find a minimum version of your project that will be possible to show others. Don't go into details of all features, it should do basic actions and that's it. Are you writing API for your team? Create-Read-Update-Delete would be awesome but given the limited time go with just Read operations and...
+That's crucial to find a minimum version of your project that will be possible to show others. Don't go into details of all features, it should cover basic actions and that's it. Are you writing API for your team? Create-Read-Update-Delete would be awesome but given the limited time you have just go with Read operations and...
 
 ### Mock your data
 There is no need to write all functionalities in just a few hours. We can substitute the data with any content and make it more realistic when MVP is done and there is still time left. Nobody will care if your application prints a dummy "Lorem ipsum" content.
